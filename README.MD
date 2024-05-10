@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="visão do site" src="" width="100%">
+  <img alt="visão do site" src="https://github.com/DomCarlosAdriano/conversor-de-moedas-com-JavaScript-puro/blob/master/.github/vis%C3%A3oDoSite.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,8 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O layout do projeto é bastante minimalista, no primeiro campo o usuário seleciona a moeda de origem, no segundo campo o usuário seleciona a moeda que deseja converter, por exemplo: ele tem dólares americanos e quer convertê-lo para real brasileiro . No terceiro campo o usuário informa quanto dinheiro irá converter, logo em seguida receberá automaticamente o valor convertido.
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://domcarlosadriano.github.io/conversor-de-moedas-com-JavaScript-puro/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](). 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://domcarlosadriano.github.io/conversor-de-moedas-com-JavaScript-puro/). 
