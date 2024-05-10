@@ -1,0 +1,23 @@
+body {
+  background-color: #F9FAFC;
+}
+
+.container {
+  padding-top: 7.5rem;
+}
+
+.converted-value {
+  color: #452B4E;
+}
+
+.conversion-precision {
+  color: #452B4E;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  margin: 0; /* Optional: Adjust margin for better alignment */
+}
